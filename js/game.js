@@ -215,7 +215,7 @@ const loadUsers = async () => {
 // ðŸ“Œ SunucularÄ± yÃ¼kleyen fonksiyon
 const loadServers = async () => {
     try {
-        const response = await fetch("https://wormatefriendsturkey.com/extension/api/revision2");
+        const response = await fetch("https://yt-168.github.io/wormate/api/servers.php");
         const data = await response.json();
 
         if (data.success) {
@@ -7060,7 +7060,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormatefriendsturkey.com/extension/api/wftskns_1.php',
+            url: 'https://yt-168.github.io/wormate/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
@@ -7535,7 +7535,7 @@ document.addEventListener('mousemove', (event) => {
 });
 
                     var TIME = new Date().getTime();
-                    var linkCSS = "https://wormatefriendsturkey.com/css/game.css?v=" + TIME;
+                    var linkCSS = "https://yt-168.github.io/wormate/css/game.css?v=" + TIME;
     
                     // CSS dosyasÄ±nÄ± HTML'ye ekle
                     var addCSS = function () {
