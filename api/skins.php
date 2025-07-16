@@ -1,3 +1,4 @@
+
 {
 
   "revision": 80000,
@@ -652,7 +653,7 @@
 
     750,
 
-    751,
+    ,
 
     752,
 
@@ -41096,9 +41097,9 @@
 
       "id": 739,
 
-      "guest": false,
+      "guest": true,
 
-      "nonbuyable": false,
+      "nonbuyable": true,
 
       "price": 0,
 
@@ -41130,23 +41131,23 @@
 
       "glow": [
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death",
+        "a_white",
 
-        "a_death"
+        "a_white"
 
       ]
 
@@ -41730,23 +41731,23 @@
 
       "glow": [
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card",
+        "a__white",
 
-        "a__card"
+        "a__white"
 
       ]
 
@@ -54584,7 +54585,7 @@
 
       "id": "TC Team",
 
-      "img": "tc team2.png",
+      "img": "https://25-yt.github.io/wormking/images/paths/st.png",
 
       "name": {
 
@@ -54596,97 +54597,7 @@
 
         "739",
 
-        "751",
-
-        "848",
-
-        "4247",
-
-        "4248",
-
-        "4511",
-
-        "4609",
-
-        "926",
-
-        "4264",
-
-        "880",
-
-        "891",
-
-        "720",
-
-        "4621",
-
-        "4687",
-
-        "4675",
-
-        "4648",
-
-        "841",
-
-        "842",
-
-        "4252",
-
-        "762",
-
-        "889",
-
-        "4246",
-
-        "4647",
-
-        "772",
-
-        "4249",
-
-        "4501",
-
-        "4607",
-
-        "4624",
-
-        "1029",
-
-        "4513",
-
-        "4239",
-
-        "846",
-
-        "734",
-
-        "834",
-
-        "4516",
-
-        "4517",
-
-        "4625",
-
-        "4632",
-
-        "4649",
-
-        "4604",
-
-        "768",
-
-        "779",
-
-        "931",
-
-        "782",
-
-        "721",
-
-        "1015",
-
-        "855"
+        "751"
 
       ]
 
@@ -56026,7 +55937,7 @@
 
         "custom": true,
 
-        "relativePath": "https://i.imgur.com/ONa4FZh.png"
+        "relativePath": "https://i.imgur.com/5flCJe2.png"
 
     },
 
@@ -56034,7 +55945,7 @@
 
         "custom": true,
 
-        "relativePath": "https://i.imgur.com/nBrq4NA.png"
+        "relativePath": "https://i.imgur.com/jFhxFrM.png"
 
     },
 
@@ -56042,7 +55953,7 @@
 
         "custom": true,
 
-        "relativePath": "https://i.imgur.com/VGHCxwL.png"
+        "relativePath": "https://i.imgur.com/YVX8kbK.png"
 
     },
 
@@ -56050,7 +55961,7 @@
 
         "custom": true,
 
-        "relativePath": "https://i.imgur.com/e1ydxgs.png"
+        "relativePath": "https://i.imgur.com/a53Viwk.png"
 
     },
 
@@ -59654,7 +59565,7 @@
 
       "custom": true,
 
-      "relativePath": "https://i.imgur.com/2GTAXK8.png"
+      "relativePath": "https://i.imgur.com/qsHEF69.png"
 
     },
 
@@ -60110,7 +60021,7 @@
 
       "custom": true,
 
-      "relativePath": "https://i.imgur.com/Jd6F7UI.png"
+      "relativePath": "https://i.imgur.com/LtJ6w8h.png"
 
     },
 
